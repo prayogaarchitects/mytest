@@ -1,28 +1,15 @@
 import { useParams } from "react-router-dom"
 import {GrLocationPin} from "react-icons/gr"
-import ImageViewer from "react-simple-image-viewer";
 import { useState,useCallback } from "react";
+import { Image } from "./image";
+import PinterestGrid from 'rc-pinterest-grid';
+
 
 export const ImagesView = (props) => {
   let { id } = useParams();
-  const [currentImage, setCurrentImage] = useState(0);
-  const [isViewerOpen, setIsViewerOpen] = useState(false);
-  const images = [
-    "http://placeimg.com/1200/800/nature",
-    "http://placeimg.com/800/1200/nature",
-    "http://placeimg.com/1920/1080/nature",
-    "http://placeimg.com/1500/500/nature"
-  ];
 
-  const openImageViewer = useCallback((index) => {
-    setCurrentImage(index);
-    setIsViewerOpen(true);
-  }, []);
+  const images = props.data? props.data.filter(u=>u.id==id)[0].images : null;
 
-  const closeImageViewer = () => {
-    setCurrentImage(0);
-    setIsViewerOpen(false);
-  };
 
   return (
     
@@ -31,7 +18,7 @@ export const ImagesView = (props) => {
           {
             props.data
             ? props.data.filter(u => u.id==id).map(item => {
-              return <div className="row" key={item.id}>
+              return <div className="row portfolio-items" key={item.id}>
                 <div className="col-sm-12 col-md-12 col-lg-6">
                   <h2 className="imagetitle">{item.title}</h2>
                 </div>
@@ -39,7 +26,7 @@ export const ImagesView = (props) => {
                  
                   <p>{item.description}</p>
                   
-                  <p><GrLocationPin/> {item.location}</p>
+                  <p>Location : <GrLocationPin/> {item.location}</p>
                  
                   <p>Site Area : {item.sitearea}</p>
                   <p>Property Type : {item.projecttype}</p>
@@ -47,29 +34,27 @@ export const ImagesView = (props) => {
               </div>
             }) : ""
           }
-
-      {images.map((src, index) => (
-        <img
-          src={src}
-          onClick={() => openImageViewer(index)}
-          width="300"
-          key={index}
-          style={{ margin: "2px" }}
-          alt=""
-        />
-      ))}
-      {isViewerOpen && (
-        <ImageViewer
-          src={images}
-          currentIndex={currentImage}
-          onClose={closeImageViewer}
-          disableScroll={false}
-          backgroundStyle={{
-            backgroundColor: "rgba(0,0,0,0.9)"
-          }}
-          closeOnClickOutside={true}
-        />
-      )}
+      <div className='portfolio-items'>
+          <PinterestGrid
+            columns={3}               // how many columns in one row
+            columnWidth={420}         // width of each block
+            gutterWidth={10}          // horizontal gutter between each block
+            gutterHeight={10} 
+            responsive={true}        // vertical gutter between each block
+            >
+            {images
+              ? images.map((d, i) => (
+                
+                <div key={`${i}`} className='individualcards'>
+                 <Image mainImage={d} />
+                  
+                </div>
+               
+              ))
+              : 'Loading...'}
+            </PinterestGrid>
+          </div>
+      
         
       </div>
     </div>

@@ -44,8 +44,7 @@ html {
 h2,
 h3,
 h4 {
-  font-family: "Playfair Display", sans-serif;
-  text-transform: lowercase;
+  font-family: 'Cormorant Garamond', serif;
 }
 h2 {
   margin: 0 0 20px;
@@ -113,14 +112,13 @@ hr {
   // box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 #menu a.navbar-brand {
-  font-family: "Playfair Display", sans-serif;
-  font-size: 24px;
+  font-family: 'Cormorant Garamond', serif;;
+  font-size: 26px;
   font-weight: 700;
   color: $paletteColor5;
-  text-transform: lowercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
-  font-family: "Mulish", sans-serif;
+  font-family: "Muli", sans-serif;
   text-transform: lowercase;
   color: $paletteColor5;
   font-size: 15px;
@@ -142,6 +140,11 @@ hr {
 }
 #menu.navbar-default .navbar-nav > li > a:hover:after {
   width: 100%;
+}
+#archintspan{
+  font-size: 17px;
+  padding: 9px;
+  color: $paletteColor2;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
@@ -255,7 +258,6 @@ a:focus,
   color: $paletteColor1;
   font-size: 82px;
   font-weight: 700;
-  text-transform: lowercase;
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -658,11 +660,11 @@ label {
 }
 
 .individualcards{
-  display: grid;
+  //display: grid;
   margin-bottom: 20px;
-  // box-shadow: rgba(100, 100, 111, 0.2) 0px 3px 3px 0px;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  padding-bottom: 10px;
+  padding:10px;
+  //box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  //padding-bottom: 10px;
 }
 
 .servicesp{
@@ -686,10 +688,19 @@ label {
 }
 
 .iconv{
-  width: 50px;
-  height: 50px;
+  
+  height: 30px;
+  width: 30px;
+  margin-left: 14px;
+  margin-top: 14px;
+  margin-right: 10px;
 }
 
 .mainheader{
   float: right;
+}
+
+.portfolio-items{
+  padding-left: 5%;
+  padding-right: 5%;
 }

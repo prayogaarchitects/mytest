@@ -2,6 +2,8 @@ import { Image } from "./image";
 import { useState, useEffect } from "react";
 import Slide from 'react-reveal/Slide';
 import Fade from 'react-reveal/Fade';
+import PinterestGrid from 'rc-pinterest-grid';
+
 
 export const Gallery = (props) => {
   const [value, setValue] = useState('ALL');
@@ -24,20 +26,27 @@ export const Gallery = (props) => {
         </div>
         
         <div className='row'>
-        <Fade left cascade>
+        
           <div className='portfolio-items'>
-         
+          <PinterestGrid
+            columns={3}               // how many columns in one row
+            columnWidth={420}         // width of each block
+            gutterWidth={10}          // horizontal gutter between each block
+            gutterHeight={10} 
+            responsive={true}        // vertical gutter between each block
+            >
             {props.data
               ? props.data.filter(u => u.classification==value || value=="ALL").map((d, i) => (
-                <div key={`${d.title}-${i}`} className='col-sm-12 col-md-6 col-lg-4 individualcards'>
-                 <Image title={d.title} id={d.id} largeImage={d.largeImage} smallImage={d.smallImage} />
+                
+                <div key={`${d.title}-${i}`} className='individualcards'>
+                 <Image title={d.title} id={d.id} mainImage={d.mainImage} />
                   <span>{d.title + " - "+ d.projecttype}</span>
                 </div>
+               
               ))
               : 'Loading...'}
-            
+            </PinterestGrid>
           </div>
-        </Fade>
         </div>
        
       </div>

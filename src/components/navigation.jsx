@@ -5,7 +5,7 @@ export const Navigation = (props) => {
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container-fluid'>
         <div className='navbar-header'>
-        <Link to='/'><img src={process.env.PUBLIC_URL + '/img/PAlogo.jpeg'}  className="iconv" alt="Logo" /></Link>
+        <Link to='/'><img src={process.env.PUBLIC_URL + '/img/PAlogo.png'}  className="iconv" alt="Logo" /></Link>
           <button
             type='button'
             className='navbar-toggle collapsed'
@@ -19,8 +19,10 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <Link className='navbar-brand mainheader page-scroll' to='/'>
-            Prayoga Architects
+            PRAYOGA |
+            <span id="archintspan">Architects + Interiors</span>
           </Link>{' '}
+          
         </div>
 
         <div

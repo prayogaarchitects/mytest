@@ -21,7 +21,7 @@
   "Gallery": [
     {
       "id":1,
-      "title": "NATURE CURE CENTER",
+      "title": "Vasundhara Villas",
       "classification":"INTERIOR",
       "client": "GOVERNMENT",
       "location": "NA",
@@ -29,25 +29,27 @@
       "builtuparea": "77777.651 SFT",
       "projecttype": "COMMERCIAL",
       "description": "THE NATURE CURE CENTER IS A BEAUTIFUL AND CALM PLACE WITH ALL AMENITIES FOR REGAINING HEALTH. SITUATED IN SANGAREDDY AND PRACTICES NATUROPATHIC METHODS TO RESTORE AND REJUVENATE THE BODY, MIND AND SOUL. THE CENTER IS IN A CONSTANT ENDEAVOR TO EXCEED THE EXPECTION OF HEALTH SEEKERS AND PROVIDE THEM WITH A BETTER QUALITY LIFE.",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "img/portfolio/01-small.jpg",
+      "mainImage": "img/portfolio/1/1.jpg",
+      "images":["img/portfolio/1/1.jpg","img/portfolio/1/2.jpg","img/portfolio/1/3.jpg","img/portfolio/1/4.jpg","img/portfolio/1/5.jpg","img/portfolio/1/8.jpg"]
     },
     {
       "id":2,
-      "title": "AMUSEMENT PARK",
+      "title": "Labyrinth Lakefront",
       "classification":"ARCHITECTURE",
       "client": "GOVERNMENT",
-      "location": "KAKINADA",
+      "location": "Gandipet",
       "sitearea": "17.5076 SFT",
       "builtuparea": "5.2082 SFT",
       "projecttype": "COMMERCIAL",
       "description": "AMUSEMENT PARK IS LOCATED IN THE KAKINADA WITH A ONE-STORIED STRUCTURE WITH 1.945 ACRES.THE PROJECT IS DESIGNED WITH A 5.7 SFT PARKING. IN ADDITION RECREATIONAL ACTIVITIES INCLUDING CRICKET NETS VOLLEYBALL COURT,DINING AREA,FOOD COURTS, LOBBY AREAS.",
       "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "mainImage": "img/portfolio/2/1.jpeg",
+      "images":["img/portfolio/2/1.jpeg","img/portfolio/2/2.jpg","img/portfolio/2/3.jpg","img/portfolio/2/4.jpeg","img/portfolio/2/5.jpeg","img/portfolio/2/7.png","img/portfolio/2/8.jpg","img/portfolio/2/9.jpg","img/portfolio/2/11.png","img/portfolio/2/13.jpg"]
     },
     {
       "id":3,
-      "title": "APARTMENT",
+      "title": "Function Hall & Hotel",
       "classification":"INTANDARCH",
       "client": "Mr. Anand",
       "location": "VIZAG",
@@ -56,11 +58,12 @@
       "projecttype": "MIXED-USE",
       "description": "THIS APARTMENT IS A TWO-STORIED STRUCTURE WITH 2400 SFT SITE AREA, IT IS A MIXED-USE STRUCTURE, GROUND FLOOR IS ALLOTED FOR SHOPS AND PARKING AND FIRST AND SECOUND FLOOR IS FOR THE RESIDENTIAL USE.",
       "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "mainImage": "img/portfolio/3/1.jpg",
+      "images":["img/portfolio/3/1.jpg","img/portfolio/3/2.jpg","img/portfolio/3/3.jpg"]
     },
     {
       "id":4,
-      "title": "MLA VILLA",
+      "title": "Prasad Residency",
       "classification":"INTANDARCH",
       "client": "MLA Mr. Kranthi Kumar",
       "location": "ANDOLE",
@@ -69,11 +72,12 @@
       "projecttype": "MIXED-USE",
       "description": "THE MLA VILLA IS A DUPLEX STRUCTURE DESIGNED IN ANDOLE IN 1 ACRE WITH A HUGE LOUNGE AREA, IT IS A MIXED USE PROJECT WERE DESIGN HAS OFFICE IN THE LOWER LEVEL, THE OFFICE SPACE CONTAIN CONFERENCE ROOM, MLA CABIN WITH A WORKING DESK AND WAITING AREA. THE REST OF THE BUILDING IS USED AS RESIDENTIAL. THE ULTIMATE FEEL OF THE PROJECT WILL KEEP YOU ON A HIGH ALL THE TIME. ONCE YOU SET FOOT IN THE PROJECT YOU WILL BE PLEASANTLY SURPRISED THAT IT IS YOUR OWN DREAM VILLA. ",
       "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "mainImage": "img/portfolio/4/0.jpg",
+      "images":["img/portfolio/4/0.jpg","img/portfolio/4/1.jpeg","img/portfolio/4/2.jpeg","img/portfolio/4/3.jpeg","img/portfolio/4/4.jpeg","img/portfolio/4/5.jpg","img/portfolio/4/6.jpg","img/portfolio/4/7.jpg","img/portfolio/4/8.png","img/portfolio/4/9.png","img/portfolio/4/10.png"]
     },
     {
       "id":5,
-      "title": "PRASAD RESIDENCY",
+      "title": "Gated Community",
       "classification":"INTANDARCH",
       "client": "Mr. Prasad",
       "location": "Eluru",
@@ -82,11 +86,12 @@
       "projecttype": "RESIDENTIAL",
       "description": "PRASAD RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN ELURU IN 9600SFT, THE SCALE OF THE PROJECT IS THE CRITICAL ASPECT IN ANY OF THE HOUSING PROJECT. THE APARTMENT IDEA IS TO PUT AN EMPHASIS ON THE CELLAR, STILT AND G+4 AND PRODUCE A STUCTURE THAT IS VERY HUMAN IN SCALE AND THAT HAS THE FEEL OF A SINGLE DWELLING UNIT",
       "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "mainImage": "img/portfolio/5/1.jpg",
+      "images":["img/portfolio/5/1.jpg","img/portfolio/5/2.jpg","img/portfolio/5/3.jpg","img/portfolio/5/4.jpg","img/portfolio/5/5.jpg","img/portfolio/5/6.jpg","img/portfolio/5/7.jpg","img/portfolio/5/8.jpg","img/portfolio/5/9.jpg"]
     },
     {
       "id":6,
-      "title": "RAMESH RESIDENCY",
+      "title": "Parigi Raju",
       "classification":"INTANDARCH",
       "client": "Mr. Ramesh",
       "location": "Vizag",
@@ -95,11 +100,12 @@
       "projecttype": "RESIDENTIAL",
       "description": "RAMESH RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN VIZAG IN 3225 SFT, EACH FLOOR CONSISTS OF 2 DWELLING UNITS OF EACH 805 SFT AND COMPRISES OF TOTAL 4 HOUSES AND THE LOWER LEVEL OF THE BUILDING HAS THE PARKING AREA WITH THE WATCHMAN CABINET.",
       "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "mainImage": "img/portfolio/6/1.jpg",
+      "images":["img/portfolio/6/1.jpg","img/portfolio/6/2.jpg","img/portfolio/6/3.jpg","img/portfolio/6/4.jpg","img/portfolio/6/5.jpg","img/portfolio/6/6.jpg","img/portfolio/6/7.jpg"]
     },
     {
       "id":7,
-      "title": "REDDY RESIDENCY",
+      "title": "James Street",
       "classification":"INTANDARCH",
       "client": "Mr. Reddy",
       "location": "Vizag",
@@ -108,11 +114,12 @@
       "projecttype": "RESIDENTIAL",
       "description": "REDDY RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN VIZAG IN 206.6 SQUARE YARDS. THE SITE HAS A 33 FEET WIDE ROAD TOWARDS THE EAST. THE BUILDING HAS 4 LEVELS. IN THE STILT LEVEL IS SET FOR THE PARKING AND THE TOP THREE LEVELS HAS THE DWELLING UNITS FOR EACH FLOOR WITH A 3BHK.",
       "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "mainImage": "img/portfolio/7/1.jpg",
+      "images":["img/portfolio/7/1.jpg","img/portfolio/7/2.jpg","img/portfolio/7/3.jpg","img/portfolio/7/4.jpg"]
     },
     {
       "id":8,
-      "title": "DARBAR RESTAURANT",
+      "title": "Open Wedding",
       "classification":"INTANDARCH",
       "client": "Mr. Harish",
       "location": "Eluru",
@@ -121,11 +128,12 @@
       "projecttype": "COMMERCIAL",
       "description": "DARBAR RESTAURANT IS A STAGGERED STRUCTURE WHICH IS BEEN STAGGERED FROM THE ONE SIDE OF THE BUILDING BY THIS METHOD WE GET PROPER LIGHTING AND VENTILATION INTO THE BUILDING. THE RESTAURANT IS PLANNED AND DESIGNED WITH A GOOD DINING EXPERIENCE TINGLES WITH ALL THE SENSES WITH ELEMENTS OF THE FUSION OF GEOMETRIC SHAPES AND COLOURS.THROUGH THREE PIVOT GLASS WINDOWS, THE DESIGN INTRODUCES THE URBAN PUBLIC SPACE INTO THE INTERIOR. THE WELL ORGANISED FLOOR PLAN HELP THE WHOLE SPACE SEEM COZY.",
       "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "mainImage": "img/portfolio/8/1.jpg",
+      "images":["img/portfolio/8/1.jpg","img/portfolio/8/2.jpg","img/portfolio/8/3.jpg","img/portfolio/8/4.jpg","img/portfolio/8/5.jpg","img/portfolio/8/12.jpg"]
     },
     {
       "id":9,
-      "title": "SRI DEVI RESIDENCY",
+      "title": "Amusement Park",
       "classification":"INTANDARCH",
       "client": "Ms. Sridevi",
       "location": "DILSHUKNAGAR",
@@ -133,12 +141,55 @@
       "builtuparea": "2177.547 SQFT",
       "projecttype": "RENOVATION",
       "description": "THIS PROJECT CONSISTS OF THE RENOVATION OF A 2706 SFT IN A DILSUKHNAGAR LOCALITY. THE EXISTING HOUSE WAS CONVERTED INTO A NEW VOLUME WAS PLACED WITHIN THE BOUNDARY. THE WORK INCLUDES COMBINING TWO ROOMS TO CREATE A LARGE KITCHEN, RENOVATING ALL THE BATHROOMS AND BEDROOMS.",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "largeImage": "img/portfolio/11.png",
+      "mainImage": "img/portfolio/9/1.jpg",
+      "images":["img/portfolio/9/1.jpg","img/portfolio/9/2.jpg","img/portfolio/9/3.jpg","img/portfolio/9/4.jpg","img/portfolio/9/5.jpg","img/portfolio/9/6.jpg"]
     },
     {
       "id":10,
-      "title": "DRIVE INN AND BANQUET HALL",
+      "title": "Drive In & Banquet Hall",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/13.jpg",
+      "mainImage": "img/portfolio/10/1.jpg",
+      "images":["img/portfolio/10/1.jpg","img/portfolio/10/2.jpg","img/portfolio/10/3.jpg","img/portfolio/10/4.jpg","img/portfolio/10/5.jpg","img/portfolio/10/6.jpg","img/portfolio/10/7.jpg","img/portfolio/10/8.jpg","img/portfolio/10/9.jpg"]
+    },
+    {
+      "id":11,
+      "title": "Vinay Villa",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/13.jpg",
+      "mainImage": "img/portfolio/11/1.jpeg",
+      "images":["img/portfolio/11/1.jpeg","img/portfolio/11/2.png","img/portfolio/11/3.jpeg","img/portfolio/11/4.jpeg","img/portfolio/11/5.jpeg","img/portfolio/11/6.jpeg","img/portfolio/11/7.jpeg","img/portfolio/11/8.jpeg","img/portfolio/11/9.jpeg","img/portfolio/11/10.jpeg"]
+    },
+    {
+      "id":12,
+      "title": "Laxman Apartment",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/12/1.jpeg",
+      "mainImage": "img/portfolio/12/1.jpg",
+      "images":["img/portfolio/12/1.jpg","img/portfolio/12/2.jpeg","img/portfolio/12/4.jpeg","img/portfolio/12/5.jpeg","img/portfolio/12/6.jpeg","img/portfolio/12/7.jpeg","img/portfolio/12/8.jpeg","img/portfolio/12/9.jpeg","img/portfolio/12/10.jpeg","img/portfolio/12/11.jpeg"]
+    },
+    {
+      "id":13,
+      "title": "Uma Apartment",
       "classification":"INTANDARCH",
       "client": "Confidential",
       "location": "DILSHUKNAGAR",
@@ -147,7 +198,92 @@
       "projecttype": "COMMERCIAL",
       "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
       "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "mainImage": "img/portfolio/13/1.png",
+      "images":["img/portfolio/13/1.png","img/portfolio/13/2.jpeg","img/portfolio/13/3.jpeg","img/portfolio/13/4.jpeg","img/portfolio/13/5.jpeg","img/portfolio/13/6.jpeg","img/portfolio/13/7.jpeg","img/portfolio/13/8.jpeg"]
+    },
+    {
+      "id":14,
+      "title": "Nagraju Apartment",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "mainImage": "img/portfolio/14/1.jpeg",
+      "images":["img/portfolio/14/1.jpeg","img/portfolio/14/2.jpeg","img/portfolio/14/3.jpg","img/portfolio/14/4.jpg","img/portfolio/14/5.jpg","img/portfolio/14/6.jpg","img/portfolio/14/7.jpg","img/portfolio/14/8.jpg","img/portfolio/14/9.jpg"]
+    },
+    {
+      "id":15,
+      "title": "Vasavi Mall",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "mainImage": "img/portfolio/15/1.jpeg",
+      "images":["img/portfolio/15/1.jpeg","img/portfolio/15/2.jpeg","img/portfolio/15/3.jpeg","img/portfolio/15/4.jpeg","img/portfolio/15/5.jpeg"]
+    },
+    {
+      "id":16,
+      "title": "Bee Media",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "mainImage": "img/portfolio/16/1.jpg",
+      "images":["img/portfolio/16/1.jpg","img/portfolio/16/2.jpg","img/portfolio/16/3.jpg","img/portfolio/16/4.jpg","img/portfolio/16/5.jpg","img/portfolio/16/6.jpg"]
+    },
+    {
+      "id":17,
+      "title": "Swati Apartment",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "mainImage": "img/portfolio/17/1.jpeg",
+      "images":["img/portfolio/17/1.jpeg","img/portfolio/17/2.jpeg"]
+    },
+    {
+      "id":18,
+      "title": "Narsimha Apartment",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "mainImage": "img/portfolio/18/1.jpg",
+      "images":["img/portfolio/18/1.jpg","img/portfolio/18/2.jpg","img/portfolio/18/3.jpg","img/portfolio/18/4.jpg","img/portfolio/18/5.jpg","img/portfolio/18/6.jpg","img/portfolio/18/7.jpg","img/portfolio/18/8.jpg"]
+    },
+    {
+      "id":19,
+      "title": "NSL Mall",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "mainImage": "img/portfolio/19/1.jpg",
+      "images":["img/portfolio/19/1.jpg","img/portfolio/19/2.jpg","img/portfolio/19/3.jpg","img/portfolio/19/4.jpg","img/portfolio/19/5.jpg"]
     }
     
   ],
