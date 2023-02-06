@@ -14,7 +14,7 @@ export const Contact = (props) => {
     nameRef.current.value = ''
     emailRef.current.value = ''
     messageRef.current.value = ''
-    alert('Form Submitted scucesfully')
+    alert('Form Submitted succesfully')
   }
   return (
     <div>
@@ -29,7 +29,7 @@ export const Contact = (props) => {
                   get back to you as soon as possible.
                 </p>
               </div>
-              <form validate action="https://formsubmit.co/prayogaarchitects@gmail.com" onSubmit= {handleSubmit} method="POST">
+              <form validate action="https://formsubmit.co/prayogaarchitects@gmail.com" method="POST">
               <div className='row'>
                 <div className='col-md-6'>
                   <div className='form-group'>
@@ -112,18 +112,8 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
-                      <i className='fa fa-facebook'></i>
-                    </a>
-                  </li>
-                  <li>
                     <a href={props.data ? props.data.instagram : '/'}>
                       <i className='fa fa-instagram'></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
                     </a>
                   </li>
                 </ul>
@@ -135,7 +125,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 Prayoga Architects. Developed by Vasuprada. Design ideas Template Wire.
+            &copy; 2022 Prayoga Architects. Design ideas Template Wire. @HC 
           </p>
         </div>
       </div>

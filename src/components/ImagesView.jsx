@@ -46,7 +46,7 @@ export const ImagesView = (props) => {
               ? images.map((d, i) => (
                 
                 <div key={`${i}`} className='individualcards'>
-                 <Image mainImage={d} />
+                 <Image mainImage={d} sourcep = "imagesview"/>
                   
                 </div>
                

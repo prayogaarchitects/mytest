@@ -39,7 +39,7 @@ export const Gallery = (props) => {
               ? props.data.filter(u => u.classification==value || value=="ALL").map((d, i) => (
                 
                 <div key={`${d.title}-${i}`} className='individualcards'>
-                 <Image title={d.title} id={d.id} mainImage={d.mainImage} />
+                 <Image title={d.title} id={d.id} mainImage={d.mainImage} sourcep = "gallery"/>
                   <span>{d.title + " - "+ d.projecttype}</span>
                 </div>
                

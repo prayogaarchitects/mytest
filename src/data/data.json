@@ -58,7 +58,7 @@
       "projecttype": "MIXED-USE",
       "description": "THIS APARTMENT IS A TWO-STORIED STRUCTURE WITH 2400 SFT SITE AREA, IT IS A MIXED-USE STRUCTURE, GROUND FLOOR IS ALLOTED FOR SHOPS AND PARKING AND FIRST AND SECOUND FLOOR IS FOR THE RESIDENTIAL USE.",
       "largeImage": "img/portfolio/03-large.jpg",
-      "mainImage": "img/portfolio/3/1.jpg",
+      "mainImage": "img/portfolio/3/3.jpg",
       "images":["img/portfolio/3/1.jpg","img/portfolio/3/2.jpg","img/portfolio/3/3.jpg"]
     },
     {
@@ -72,8 +72,8 @@
       "projecttype": "MIXED-USE",
       "description": "THE MLA VILLA IS A DUPLEX STRUCTURE DESIGNED IN ANDOLE IN 1 ACRE WITH A HUGE LOUNGE AREA, IT IS A MIXED USE PROJECT WERE DESIGN HAS OFFICE IN THE LOWER LEVEL, THE OFFICE SPACE CONTAIN CONFERENCE ROOM, MLA CABIN WITH A WORKING DESK AND WAITING AREA. THE REST OF THE BUILDING IS USED AS RESIDENTIAL. THE ULTIMATE FEEL OF THE PROJECT WILL KEEP YOU ON A HIGH ALL THE TIME. ONCE YOU SET FOOT IN THE PROJECT YOU WILL BE PLEASANTLY SURPRISED THAT IT IS YOUR OWN DREAM VILLA. ",
       "largeImage": "img/portfolio/04-large.jpg",
-      "mainImage": "img/portfolio/4/0.jpg",
-      "images":["img/portfolio/4/0.jpg","img/portfolio/4/1.jpeg","img/portfolio/4/2.jpeg","img/portfolio/4/3.jpeg","img/portfolio/4/4.jpeg","img/portfolio/4/5.jpg","img/portfolio/4/6.jpg","img/portfolio/4/7.jpg","img/portfolio/4/8.png","img/portfolio/4/9.png","img/portfolio/4/10.png"]
+      "mainImage": "img/portfolio/4/2.jpeg",
+      "images":["img/portfolio/4/0.jpg","img/portfolio/4/1.jpeg","img/portfolio/4/2.jpeg","img/portfolio/4/3.jpg","img/portfolio/4/4.jpg","img/portfolio/4/5.jpg","img/portfolio/4/6.jpg","img/portfolio/4/7.jpg","img/portfolio/4/8.jpg","img/portfolio/4/9.png","img/portfolio/4/10.png"]
     },
     {
       "id":5,
@@ -374,8 +374,8 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "Road, opp. to Tv9 office, Srinagar Colony, Sri Nagar Colony, Venkateshwara Hills, Banjara Hills, Hyderabad, Telangana 500073 ",
+    "phone": "+91 90305 03649, +91 87908 07824",
     "email": "prayogaarchitects@gmail.com",
     "facebook": "fb.com",
     "instagram": "https://www.instagram.com/prayogaarchitects/",
