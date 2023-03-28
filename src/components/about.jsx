@@ -13,7 +13,7 @@ export const About = (props) => {
             <div className="about-text">
             <Slide left cascade><h2>About Us</h2></Slide>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              <Slide left cascade><h3>Why Choose Us?</h3></Slide>
+              {/* <Slide left cascade><h3>Why Choose Us?</h3></Slide>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
@@ -33,7 +33,7 @@ export const About = (props) => {
                       : "loading"}
                   </ul>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
