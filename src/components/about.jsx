@@ -2,42 +2,27 @@ import Slide from 'react-reveal/Slide';
 
 export const About = (props) => {
   return (
-    <div id="about">
-      <div className="container">
-        <div className="row">
-          <div className="col-xs-12 col-md-6">
-            {" "}
-            <img src="img/about.png" className="img-responsive" alt="" />{" "}
-          </div>
-          <div className="col-xs-12 col-md-6">
-            <div className="about-text">
-            <Slide left cascade><h2>About Us</h2></Slide>
-              <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              {/* <Slide left cascade><h3>Why Choose Us?</h3></Slide>
-              <div className="list-style">
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-              </div> */}
-            </div>
-          </div>
+    <div id='' className='text-center about' >
+       <div id='portfolio' className='text-center'>
+      <div className='container'>
+        <div className='row section-title'>
+        <Slide left cascade><h2 id="h2s">About Us</h2></Slide>
         </div>
+        <div className="row d-flex">
+          <div className="col-sm-12 col-md-12 col-lg-6 servicesp">
+              <h3>{props.data ? props.data.servicescaption : ""}</h3>
+          </div>
+          <div className="col-sm-12 col-md-12 col-lg-6 servicesp">
+            <h2>Hi! We are Mahindar and Rohith. </h2>
+              <span>{props.data ? props.data.paragraph : "loading..."}</span>
+              <span>{props.data ? props.data.paragraph2 : "loading..."}</span>
+              <span>{props.data ? props.data.paragraph3 : "loading..."}</span>
+              <span>{props.data ? props.data.paragraph4 : "loading..."}</span>
+          </div>
+        </div> 
       </div>
     </div>
-  );
-};
+    </div>
+  )
+}
+

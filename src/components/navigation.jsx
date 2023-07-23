@@ -6,6 +6,7 @@ export const Navigation = (props) => {
       <div className='container-fluid'>
         <div className='navbar-header'>
         <Link to='/'><img src={process.env.PUBLIC_URL + '/img/PAlogo.png'}  className="iconv" alt="Logo" /></Link>
+        <Link to='/'><img src={process.env.PUBLIC_URL + '/img/PRAYOGA.png'}  className="headv" alt="Logo" /></Link>
           <button
             type='button'
             className='navbar-toggle collapsed'
@@ -18,11 +19,6 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <Link className='navbar-brand mainheader page-scroll' to='/'>
-            PRAYOGA |
-            <span id="archintspan">Architects + Interiors</span>
-          </Link>{' '}
-          
         </div>
 
         <div
@@ -30,26 +26,24 @@ export const Navigation = (props) => {
           id='bs-example-navbar-collapse-1'
         >
           <ul className='nav navbar-nav navbar-right'>
-            
-            <li>
-              <Link to='/about'>
-                About
+          <li>
+              <Link to='/gallery'>
+                Our Work
               </Link>
             </li>
             <li>
               <Link to='/ourservices' >
-                Our Services
+                Services
               </Link>
             </li>
             <li>
-              <Link to='/gallery'>
-                Gallery
+              <Link to='/about'>
+                About Us
               </Link>
             </li>
-            
             <li>
               <Link to='/contact' >
-                Contact
+                Contact Us
               </Link>
             </li>
             {/* <li class="nav-item dropdown">

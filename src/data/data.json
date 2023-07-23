@@ -4,7 +4,10 @@
 		"paragraph": "Blend In with Today's Architecture"
 	},
 	"About": {
-		"paragraph": "Prayoga Architects is an architectural firm based in Hyderabad, India that specializes in designing innovative and sustainable buildings and spaces.\rThe firm was founded by <b>Rohith Tentu and Mahendra Pullaki </b> in 2019 and has since then completed several high-profile projects in Telangana,Andhra pradesh and beyond. We focuses on creating designs that are responsive to their environment, context, and culture. They believe that architecture should not only be aesthetically pleasing but should also be functional, sustainable, and serve the needs of the people who use it. The firm's portfolio includes a range of projects, including residential, commercial, and institutional buildings, as well as interior design. Some of their notable projects include the Vasundhara villas in hyderabad, the Surya Hotel in vijaywada, and the Labyrinth in Hyderabad. We committed to creating buildings and spaces that have a positive impact on the environment and society, and to advancing the field of sustainable architecture in India, and also we tie with companies like Live Space, Ramky Builders & Utec by Ultra tech.",
+		"paragraph": "Prayoga Architects is an architectural firm based in Hyderabad, India that specializes in designing innovative and sustainable buildings and spaces. ",
+		"paragraph2":"The firm was founded by Rohith Tentu and Mahendra Pullaki in 2019 and has since then completed several high-profile projects in Telangana,Andhra pradesh and beyond. ",
+		"paragraph3":"We focuses on creating designs that are responsive to their environment, context, and culture. They believe that architecture should not only be aesthetically pleasing but should also be functional, sustainable, and serve the needs of the people who use it. ",
+		"paragraph4":"The firm's portfolio includes a range of projects, including residential, commercial, and institutional buildings, as well as interior design. Some of their notable projects include the Vasundhara villas in hyderabad, the Surya Hotel in vijaywada, and the Labyrinth in Hyderabad. We committed to creating buildings and spaces that have a positive impact on the environment and society, and to advancing the field of sustainable architecture in India, and also we tie with companies like Live Space, Ramky Builders & Utec by Ultra tech.",
 		"Why": [
 			"Lorem ipsum dolor",
 			"Tempor incididunt",
@@ -22,7 +25,7 @@
 		{
 			"id": 1,
 			"title": "Vasundhara Villas",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "YASWANTH",
 			"location": "NA",
@@ -44,7 +47,7 @@
 		{
 			"id": 2,
 			"title": "Labyrinth Lakefront",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "SHANTHI",
 			"location": "Gandipet",
@@ -70,7 +73,7 @@
 		{
 			"id": 3,
 			"title": "Surya Function Hall & Hotel",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "KIRAN",
 			"location": "JANGAREDDY GUDAM",
@@ -88,10 +91,10 @@
 		},
 		{
 			"id": 4,
-			"title": "PRAVEEN'S RESIDENCY",
-			"classification": "ARCHITECTURE",
+			"title": "Praveen's Residence",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
-			"client": "PRAVEEN",
+			"client": "Praveen",
 			"location": "SHADNAGAR",
 			"sitearea": "2832 SFT",
 			"builtuparea": "3130 SFT",
@@ -116,7 +119,7 @@
 		{
 			"id": 5,
 			"title": "Gated Community",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "DNB CONSTRUCTIONS",
 			"location": "MOKHILA",
@@ -140,7 +143,7 @@
 		{
 			"id": 6,
 			"title": "Raju Residency",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "Mr. Raju",
 			"location": "parigi",
@@ -163,7 +166,8 @@
 		{
 			"id": 7,
 			"title": "James Street",
-			"classification": "ARCHITECTURE",
+			"classification": "Architecture",
+			"secondclass":"None",
 			"client": "GHMC",
 			"location": "SECUNDRABAD",
 			"sitearea": "8203 SFT",
@@ -182,7 +186,7 @@
 		{
 			"id": 8,
 			"title": "Open Wedding",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"client": "Mr. JOGESDHWAR RAO",
 			"secondclass": "BOTH",
 			"location": "Eluru",
@@ -204,7 +208,7 @@
 		{
 			"id": 9,
 			"title": "Amusement Park",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "GOVERNMENT PROJECT",
 			"location": "KAKINADA",
@@ -226,7 +230,7 @@
 		{
 			"id": 10,
 			"title": "Drive In & Banquet Hall",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "ROHITH REDDY",
 			"location": "DILSHUKNAGAR",
@@ -251,14 +255,14 @@
 		{
 			"id": 11,
 			"title": "Vinay Residence",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "VINNAY",
 			"location": "AUTONAGAR (VIZAG)",
 			"sitearea": "2080 SFT",
 			"builtuparea": "3987 SFT",
 			"projecttype": "RESIDENTIAL",
-			"description": "THE PROPERTY IS WELL-CONSTRUCTED WITH MODERN ELEMENTS, YET MAINTAINS A CONTEMPORARY ARCHITECTURE. THE DESIGN MAINLY FOCUSED ON THE EXTERIOR BUILDING LAYOUT. THE ELEMENTS USED IN THE ELEVATION ARE EXPOSED CEMENT CONCRETE,PERFORATED WALL,C-SECTIONS, CNG CUTTING WALL ADDS THE BEAUTY TO THE BUILDING.",
+			"description": "THE PROPERTY IS WELL-CONSTRUCTED WITH MODERN ELEMENTS, YET MAINTAINS A CONTEMPORARY Architecture. THE DESIGN MAINLY FOCUSED ON THE EXTERIOR BUILDING LAYOUT. THE ELEMENTS USED IN THE ELEVATION ARE EXPOSED CEMENT CONCRETE,PERFORATED WALL,C-SECTIONS, CNG CUTTING WALL ADDS THE BEAUTY TO THE BUILDING.",
 			"largeImage": "img/portfolio/13.jpg",
 			"mainImage": "img/portfolio/11/2.png",
 			"images": [
@@ -277,7 +281,7 @@
 		{
 			"id": 12,
 			"title": "Laxman Apartment",
-			"classification": "INTERIORS",
+			"classification": "Interiors",
 			"client": "Confidential",
 			"location": "KOMPALLY",
 			"sitearea": "1900.04 SFT",
@@ -302,7 +306,7 @@
 		{
 			"id": 13,
 			"title": "Uma RESIDENCE",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "UMA",
 			"location": "KOVVURU",
@@ -326,7 +330,7 @@
 		{
 			"id": 14,
 			"title": "Nagraju RESIDENCE",
-			"classification": "INTERIORS",
+			"classification": "Interiors",
 			"client": "NAGARAJU",
 			"location": "AMALAPURAM",
 			"sitearea": "2315 SFT",
@@ -350,7 +354,7 @@
 		{
 			"id": 15,
 			"title": "Vasavi Mall",
-			"classification": "INTERIORS",
+			"classification": "Interiors",
 			"client": "RAVINDAR",
 			"location": "AMEERPET",
 			"sitearea": "1645.00 SFT",
@@ -370,7 +374,7 @@
 		{
 			"id": 16,
 			"title": "Bee Media",
-			"classification": "INTERORS",
+			"classification": "Interiors",
 			"client": "Confidential",
 			"location": "HITECHCITY",
 			"sitearea": "1302 SFT",
@@ -391,7 +395,7 @@
 		{
 			"id": 17,
 			"title": "Swati Apartment",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "SWATHI",
 			"location": "KOVVURU",
@@ -409,7 +413,7 @@
 		{
 			"id": 18,
 			"title": "Narsimha Apartment",
-			"classification": "ARCHITECTURE",
+			"classification": "BOTH",
 			"secondclass": "BOTH",
 			"client": "NARSIMHA",
 			"location": "PARIGI",
@@ -433,7 +437,7 @@
 		{
 			"id": 19,
 			"title": "NSL Mall",
-			"classification": "INTERIORS",
+			"classification": "Interiors",
 			"client": "VENKAT",
 			"location": "KUKATPALLY",
 			"sitearea": "2908 SFT",
@@ -538,15 +542,26 @@
 		}
 	],
 	"Contact": {
-		"address": "Road, opp. to Tv9 office, Srinagar Colony, Sri Nagar Colony, Venkateshwara Hills, Banjara Hills, Hyderabad, Telangana 500073 ",
-		"phone": "+91 90305 03649, +91 87908 07824",
+		"address1": "Road, opp. to Tv9 office",
+		"address2": "Sri Nagar Colony, Venkateshwara Hills",
+		"address3": "Banjara Hills, Hyderabad, Telangana 500073 ",
+		"phone1": "+91 87908 07824,",
+		"phone2":"+91 90305 03649",
 		"email": "prayogaarchitects@gmail.com",
 		"facebook": "fb.com",
 		"instagram": "https://www.instagram.com/prayogaarchitects/",
-		"youtube": "youtube.com"
+		"linkedin": "https://www.linkedin.com/in/prayogaarchitects",
+		"p1":"Your time is important to us. We appreciate you reaching out to us for the space you aspire to have, and we shall do our very best to provide you with the experience you look forward to.",
+		"p2":"Do fill out the Quick Enquiry form below for your query, and we shall get back to you as quick as we can. Do note that any enquiry posted on weekends & public holidays will be processed on the next working day. ",
+		"p3":"If you would like to visit our studio, do call us in advance at our number below so that we can prepare for your welcome- we are easy to find on Google Maps. ",
+		"p4":"For any other queries, please mail us at our ID as listed."
 	},
 	"Features": {
 		"servicescaption": "Authentic experience guaranteed throughout your project. Because you deserve no less",
-		"servicesdescription": "Architecture services typically involve designing and planning buildings,including individual homes,office,commercial spaces,and public buildings.These services can include creating design concepts,preparing detailed construction drawings,obtaining necessary permits and approvals,managing construction projects,and ensuring that the completed building meets all relevant codes and regulations. These services may include: Site analysis and evaluation: We will evaluate the site where the building will be constructed, taking into account factors such as topography, climate, and zoning regulations. Conceptual design: We will develop initial design concepts, including floor plans, elevations, and site plans. Design development: We will work with the client to refine the design concepts and develop detailed drawings and specifications. Permitting: We will prepare the necessary documentation to obtain building permits from local authorities. Construction documentation: we will prepare detailed construction drawings and specifications that are used by contractors to build the project. Construction administration: We will provide ongoing support during construction, including site visits and review of contractor submittals. Post-construction services: We may provide additional services after the building is completed, such as evaluating the performance of the building systems and recommending maintenance or upgrades. Architectural services can be provided for a varziety of building types, including residential, commercial, institutional, and industrial. We may work independently or as part of a larger architectural firm."
+		"servicesdescription": "Architecture services typically involve designing and planning buildings, including individual homes, office, commercial spaces, and public buildings.   ",
+		"servicesdescription2":"These services can include creating design concepts, preparing detailed construction drawings, obtaining necessary permits and approvals, managing construction projects, and ensuring that the completed building meets all relevant codes and regulations.",
+
+		"servicesdescription3":"These services may include: Site analysis and evaluation: We will evaluate the site where the building will be constructed, taking into account factors such as topography, climate, and zoning regulations. Conceptual design: We will develop initial design concepts, including floor plans, elevations, and site plans. ",
+		"servicesdescription4":"Design development: We will work with the client to refine the design concepts and develop detailed drawings and specifications. Permitting: We will prepare the necessary documentation to obtain building permits from local authorities. Construction documentation: we will prepare detailed construction drawings and specifications that are used by contractors to build the project. Construction administration: We will provide ongoing support during construction, including site visits and review of contractor submittals. Post-construction services: We may provide additional services after the building is completed, such as evaluating the performance of the building systems and recommending maintenance or upgrades. Architectural services can be provided for a varziety of building types, including residential, commercial, institutional, and industrial. We may work independently or as part of a larger architectural firm."
 	}
 }

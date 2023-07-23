@@ -1,0 +1,553 @@
+{
+	"Header": {
+		"title": "Welcome to Prayoga",
+		"paragraph": "Blend In with Today's Architecture"
+	},
+	"About": {
+		"paragraph": "Prayoga Architects is an architectural firm based in Hyderabad, India that specializes in designing innovative and sustainable buildings and spaces.\rThe firm was founded by <b>Rohith Tentu and Mahendra Pullaki </b> in 2019 and has since then completed several high-profile projects in Telangana,Andhra pradesh and beyond. We focuses on creating designs that are responsive to their environment, context, and culture. They believe that architecture should not only be aesthetically pleasing but should also be functional, sustainable, and serve the needs of the people who use it. The firm's portfolio includes a range of projects, including residential, commercial, and institutional buildings, as well as interior design. Some of their notable projects include the Vasundhara villas in hyderabad, the Surya Hotel in vijaywada, and the Labyrinth in Hyderabad. We committed to creating buildings and spaces that have a positive impact on the environment and society, and to advancing the field of sustainable architecture in India, and also we tie with companies like Live Space, Ramky Builders & Utec by Ultra tech.",
+		"Why": [
+			"Lorem ipsum dolor",
+			"Tempor incididunt",
+			"Lorem ipsum dolor",
+			"Incididunt ut labore"
+		],
+		"Why2": [
+			"Aliquip ex ea commodo",
+			"Lorem ipsum dolor",
+			"Exercitation ullamco",
+			"Lorem ipsum dolor"
+		]
+	},
+	"Gallery": [
+		{
+			"id": 1,
+			"title": "Vasundhara Villas",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "YASWANTH",
+			"location": "NA",
+			"sitearea": "450115.354 SFT",
+			"builtuparea": "77777.651 SFT",
+			"projecttype": "GATED COMMUNITY",
+			"description": "STARTING FROM THE GATE TO HOUSES THE VASUNDARA VILLAS IS DESIGNED IN A BALI ARCHITECTURAL STYLE IT IS A PROJECT SET APART FROM OUR USUAL STYLE. BALI-STYLE OHOMES TEND TO HAVE BREEZY AND OPEN INTERIORS THAT HAVE AN AMAZING INDOOR TO O OUTDOOR FLOW. THERE IS A HUGE SENSE OF BRINGING THE OUTDOORS IN, AND VICE VERSA, TO ACHIEVE A COZY LOOK THAT FEELS VERY CLOSE TO NATURE. BALI-STYLE VILLA PROJECT TEND TO HAVE LOTS OF BEAUTIFUL LANDSCAPED GARDENS THAT ARE FAMILY FRIENDLY SPACES TO PASS THE TIME. MANICURED PLANTS, LOTS OF WALKWAYS AND MANY PLACES TO ENJOY SUNLIGHT ARE TYPICAL OF BALINESE HOMES. EACH VILLA HAS ITS OWN LANDSCAPED GARDEN, AND THE PROJECT ITSELF HAS ABOUT 65% OPEN SPACES THAT MAKE LIVING HERE A TRULY LUXURIOUS EXPERIENCE. THERE IS ALSO A SOOTHING BALINESE GARDEN RIGHT IN THE PROJECT FOR PEOPLE OF ALL AGES TO ENJOY.THE HOUSES ARE DESIGNED IN A DOME SHAPE WITH A EXPOSED BRICK TO HAVE THE LOW THERMAL CAPACITY AND GIVES GOOD INSULATION AGAINST HEAT.",
+			"largeImage": "img/portfolio/01-small.jpg",
+			"mainImage": "img/portfolio/1/5.jpg",
+			"images": [
+				"img/portfolio/1/1.jpg",
+				"img/portfolio/1/2.jpg",
+				"img/portfolio/1/3.jpg",
+				"img/portfolio/1/4.jpg",
+				"img/portfolio/1/5.jpg",
+				"img/portfolio/1/8.jpg"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Labyrinth Lakefront",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "SHANTHI",
+			"location": "Gandipet",
+			"sitearea": "103022 SFT",
+			"builtuparea": "3060 SFT",
+			"projecttype": "COMMERCIAL",
+			"description": "All this started with just walking through a piece of land with overgrown grass and an unkempt mango orchard... but all we saw was the lake and the green.. with the current culture of turning everything into a high-rise and therefore a money bank, we wanted to move away from it and slow down, reflect, create and collaborate to form a better community to encourage sustainability in whatever small form we could. All of us deserve some downtime, calm vibes, exposure to nature at its besotting best. We are proud to have ensured that we have been minimalistic and sustainable to the best of our efforts leaving a minimum carbon footprint. Everything here is handmade by local artisans, be it the sweet smelling pinewood benches and tables, the rattan chairs weaved with love using recycled plastic wire, the bamboo arch, the pinewood bar, the roofs or the rustic deck built for soaking in the gorgeous sunsets.",
+			"largeImage": "img/portfolio/02-large.jpg",
+			"mainImage": "img/portfolio/2/1.jpeg",
+			"images": [
+				"img/portfolio/2/1.jpeg",
+				"img/portfolio/2/2.jpg",
+				"img/portfolio/2/3.jpg",
+				"img/portfolio/2/4.jpeg",
+				"img/portfolio/2/5.jpeg",
+				"img/portfolio/2/7.png",
+				"img/portfolio/2/8.jpg",
+				"img/portfolio/2/9.jpg",
+				"img/portfolio/2/11.png",
+				"img/portfolio/2/13.jpg"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Surya Function Hall & Hotel",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "KIRAN",
+			"location": "JANGAREDDY GUDAM",
+			"sitearea": "48863 SFT",
+			"builtuparea": "43253 SFT",
+			"projecttype": "MIXED-USE",
+			"description": "PROJECT SURYA FUNCTION HALL AND HOTEL THE GROUND FLOOR CONSISTS OF ZONES SUCH AS BANQUET HALLS, DINNING AREA-THE DINING AREA IS OF DOUBLE HEIGHT THAT IS 30 FEET. THE ENTIRE FAÇADE OF THE STRUCTURE IS CONSTRUCTED WITH MULLION WINDOW THE FIRST FLOOR COMPLETELY DESIGNED FOR THE ACCOMODATION OF 28 ROOMS WITH A LUXURY AND GOOD FACILITIES.",
+			"largeImage": "img/portfolio/03-large.jpg",
+			"mainImage": "img/portfolio/3/1.jpg",
+			"images": [
+				"img/portfolio/3/1.jpg",
+				"img/portfolio/3/2.jpg",
+				"img/portfolio/3/3.jpg"
+			]
+		},
+		{
+			"id": 4,
+			"title": "PRAVEEN'S RESIDENCY",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "PRAVEEN",
+			"location": "SHADNAGAR",
+			"sitearea": "2832 SFT",
+			"builtuparea": "3130 SFT",
+			"projecttype": "RESIDENTIAL",
+			"description": "THE DESIGN OF THIS HOUSE WAS BUILT IN SHADNAGAR IN 2832 SFT AND IT IS FOCUSED ON A MODERN STYLE WITH DOUBLE HEIGHTS IN THE LIVING AREA, PRIVATE POOL AREA, GAZEBO, LAWN AREA AND THE INTERIORS ARE IN GRAY AND WOOD THEME. ",
+			"largeImage": "img/portfolio/04-large.jpg",
+			"mainImage": "img/portfolio/4/2.jpeg",
+			"images": [
+				"img/portfolio/4/0.jpg",
+				"img/portfolio/4/1.jpeg",
+				"img/portfolio/4/2.jpeg",
+				"img/portfolio/4/3.jpeg",
+				"img/portfolio/4/4.jpeg",
+				"img/portfolio/4/5.jpg",
+				"img/portfolio/4/6.jpg",
+				"img/portfolio/4/7.jpg",
+				"img/portfolio/4/8.png",
+				"img/portfolio/4/9.png",
+				"img/portfolio/4/10.png"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Gated Community",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "DNB CONSTRUCTIONS",
+			"location": "MOKHILA",
+			"sitearea": "9 ACRES",
+			"builtuparea": "3,25,590 SFT",
+			"projecttype": "CELLAR+2STILT+15FLOORS",
+			"description": "  THE HIGH RISE APARTMENT WHICH IS LOCATED IN THE VIJAYWADA WITH A SITE AREA OF 9ACRES IS COMPRISING OF 240 DWELLING UNITS IN TOTAL AND EACH FLOOR IS DESIGNED WITH A SINGLE UNIT. AND CLUB HOUSE AND OTHER AMENITIES LIKE CLUB HOUSE, JOGGING TRACK,GYM, FOOTBALL GROUND,BASKET BALL GROUND, KIDS PLAY AREA.",
+			"largeImage": "img/portfolio/05-large.jpg",
+			"mainImage": "img/portfolio/5/2.jpg",
+			"images": [
+				"img/portfolio/5/2.jpg",
+				"img/portfolio/5/3.jpg",
+				"img/portfolio/5/4.jpg",
+				"img/portfolio/5/5.jpg",
+				"img/portfolio/5/6.jpg",
+				"img/portfolio/5/7.jpg",
+				"img/portfolio/5/8.jpg",
+				"img/portfolio/5/9.jpg"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Raju Residency",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "Mr. Raju",
+			"location": "parigi",
+			"sitearea": "1800 SFT",
+			"builtuparea": "5445 SFT",
+			"projecttype": "G+2 RESIDENTIAL",
+			"description": " THE RAJU RESIDENCY IS CONSTRUCTED IN A 1800 SFT LOCATED IN THE PARIGI FACING TOWARDS THE SOUTH DIRECTION, IS AN ARCHITECTURAL OUTCOME GUIDED BY THREE MAIN DESIGN ASPECTS-LIGHT, SIMPLICITY AND PROPORTIONS. THE HOUSE HAS BEEN DESIGNED IN CONSIDERATION WITH THE 'FLOW OF ENERGY’. .",
+			"largeImage": "img/portfolio/05-large.jpg",
+			"mainImage": "img/portfolio/6/1.jpg",
+			"images": [
+				"img/portfolio/6/1.jpg",
+				"img/portfolio/6/2.jpg",
+				"img/portfolio/6/3.jpg",
+				"img/portfolio/6/4.jpg",
+				"img/portfolio/6/5.jpg",
+				"img/portfolio/6/6.jpg",
+				"img/portfolio/6/7.jpg"
+			]
+		},
+		{
+			"id": 7,
+			"title": "James Street",
+			"classification": "Architecture",
+			"secondclass":"None",
+			"client": "GHMC",
+			"location": "SECUNDRABAD",
+			"sitearea": "8203 SFT",
+			"builtuparea": "8203 SFT",
+			"projecttype": "LANDSCAPE",
+			"description": "THE JAMES STREET IS A BEAUTIFUL AND CALM PLACE WITH ALL AMENITIES LIKE PUBLIC GATHERING SIT OUT AREAS, TOILETS AND LIBRARY. THERE IS THREE SIDE ROAD ACCESS AROUND THE PROJECT SO BASED ON THAT WE CREATED THREE ENTRIES TO ACCESS PUBLIC EASILY AND IT IS SITUATED IN SECUNDRABAD,THE GANDHI STATUE AT THE CENTRE OF THE AREA, SO WE CREATED A PLACE FOR THE  PEOPLE TO MEDITATE.",
+			"largeImage": "img/portfolio/05-large.jpg",
+			"mainImage": "img/portfolio/7/1.jpg",
+			"images": [
+				"img/portfolio/7/1.jpg",
+				"img/portfolio/7/2.jpg",
+				"img/portfolio/7/3.jpg",
+				"img/portfolio/7/4.jpg"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Open Wedding",
+			"classification": "Architecture",
+			"client": "Mr. JOGESDHWAR RAO",
+			"secondclass": "BOTH",
+			"location": "Eluru",
+			"sitearea": "92209 ACRES",
+			"builtuparea": "35931 SQFT",
+			"projecttype": "COMMERCIAL",
+			"description": "A WEDDING HALL LOCATED IN A VERY PEACEFUL AND PLEASANT ATMOSPHERE. THE CONCEPT IS AWEDDING HALL MELTED IN THE GARDEN. WE DESIGNED VARIOUS MOVEMENTS THAT ALLOW YOU TO WALK INTO THE GARDENS. WE CAREFULLY CONNECTING THEM AND CREATE A SPACE WHERE THE GARDEN AND INTERIOR ARE INTEGRATED TO ACCOMMODATE THE GUESTS THEIR ARE 24 ROOMS.IN BETWEEN THE ACCOMMADATED ROOMS THERE IS A HUGE COURTYARD WHICH IS AT TIMES USED AS CELEBRATION AREA..",
+			"largeImage": "img/portfolio/06-large.jpg",
+			"mainImage": "img/portfolio/8/1.jpg",
+			"images": [
+				"img/portfolio/8/1.jpg",
+				"img/portfolio/8/2.jpg",
+				"img/portfolio/8/3.jpg",
+				"img/portfolio/8/4.jpg",
+				"img/portfolio/8/5.jpg",
+				"img/portfolio/8/12.jpg"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Amusement Park",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "GOVERNMENT PROJECT",
+			"location": "KAKINADA",
+			"sitearea": "87120 SFT [1.945 ACRES]",
+			"builtuparea": "20000 SQFT",
+			"projecttype": "RENOVATION",
+			"description": "AMUSEMENT PARK IS LOCATED IN THE KAKINADA WITH A ONE-STORIED STRUCTURE WITH 1.945 ACRES.THE PROJECT IS DESIGNED WITH A 5.7 SFT PARKING. IN ADDITION RECREATIONAL ACTIVITIES INCLUDING CRICKET NETS VOLLEYBALL COURT,DINING AREA,FOOD COURTS, LOBBY AREAS..",
+			"largeImage": "img/portfolio/11.png",
+			"mainImage": "img/portfolio/9/1.jpg",
+			"images": [
+				"img/portfolio/9/1.jpg",
+				"img/portfolio/9/2.jpg",
+				"img/portfolio/9/3.jpg",
+				"img/portfolio/9/4.jpg",
+				"img/portfolio/9/5.jpg",
+				"img/portfolio/9/6.jpg"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Drive In & Banquet Hall",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "ROHITH REDDY",
+			"location": "DILSHUKNAGAR",
+			"sitearea": "43560.04 SFT",
+			"builtuparea": "15015 SFT",
+			"projecttype": "COMMERCIAL",
+			"description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+			"largeImage": "img/portfolio/13.jpg",
+			"mainImage": "img/portfolio/10/1.jpg",
+			"images": [
+				"img/portfolio/10/1.jpg",
+				"img/portfolio/10/2.jpg",
+				"img/portfolio/10/3.jpg",
+				"img/portfolio/10/4.jpg",
+				"img/portfolio/10/5.jpg",
+				"img/portfolio/10/6.jpg",
+				"img/portfolio/10/7.jpg",
+				"img/portfolio/10/8.jpg",
+				"img/portfolio/10/9.jpg"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Vinay Residence",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "VINNAY",
+			"location": "AUTONAGAR (VIZAG)",
+			"sitearea": "2080 SFT",
+			"builtuparea": "3987 SFT",
+			"projecttype": "RESIDENTIAL",
+			"description": "THE PROPERTY IS WELL-CONSTRUCTED WITH MODERN ELEMENTS, YET MAINTAINS A CONTEMPORARY Architecture. THE DESIGN MAINLY FOCUSED ON THE EXTERIOR BUILDING LAYOUT. THE ELEMENTS USED IN THE ELEVATION ARE EXPOSED CEMENT CONCRETE,PERFORATED WALL,C-SECTIONS, CNG CUTTING WALL ADDS THE BEAUTY TO THE BUILDING.",
+			"largeImage": "img/portfolio/13.jpg",
+			"mainImage": "img/portfolio/11/2.png",
+			"images": [
+				"img/portfolio/11/1.jpeg",
+				"img/portfolio/11/2.png",
+				"img/portfolio/11/3.jpeg",
+				"img/portfolio/11/4.jpeg",
+				"img/portfolio/11/5.jpeg",
+				"img/portfolio/11/6.jpeg",
+				"img/portfolio/11/7.jpeg",
+				"img/portfolio/11/8.jpeg",
+				"img/portfolio/11/9.jpeg",
+				"img/portfolio/11/10.jpeg"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Laxman Apartment",
+			"classification": "Interiors",
+			"client": "Confidential",
+			"location": "KOMPALLY",
+			"sitearea": "1900.04 SFT",
+			"builtuparea": "7600 SFT",
+			"projecttype": "RESIDENTIAL",
+			"description": " LAKSHMAN RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN KOMPALLY HYDERABAD IN 210 SQUARE YARDS. THE SITE HAS A 33 FEET WIDE ROAD TOWARDS THE EAST. THE BUILDING HAS 4 LEVELS. IN THE STILT LEVEL IS SET FOR THE PARKING AND THE TOP THREE LEVELS HAS THE DWELLING UNITS FOR EACH FLOOR WITH A 1BHK & 3BHK.",
+			"largeImage": "img/portfolio/12/1.jpeg",
+			"mainImage": "img/portfolio/12/1.jpg",
+			"images": [
+				"img/portfolio/12/1.jpg",
+				"img/portfolio/12/2.jpeg",
+				"img/portfolio/12/4.jpeg",
+				"img/portfolio/12/5.jpeg",
+				"img/portfolio/12/6.jCpeg",
+				"img/portfolio/12/7.jpeg",
+				"img/portfolio/12/8.jpeg",
+				"img/portfolio/12/9.jpeg",
+				"img/portfolio/12/10.jpeg",
+				"img/portfolio/12/11.jpeg"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Uma RESIDENCE",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "UMA",
+			"location": "KOVVURU",
+			"sitearea": "2707 SFT",
+			"builtuparea": "5200 SFT",
+			"projecttype": "RESIDENTIAL",
+			"description": "THIS DUPLEX HOUSE IS A TWO-STORIED STRUCTURE WITH 2700 SFT SITE AREA WHICH IS LOCATED IN KOVVURU,GROUND FLOOR IS ALLOTED FOR PARKING AND LANDSCAPE AND FIRST IS FOR THE RESIDENTIAL USE,SECOND FLOOR DESIGNED SUCH A WAY THAT INDOOR LUXURY FACILITIES LIKE HOME THEATER AND SEMI OPEN SITTING ALONG WITH LAWN AND BAR.EXTERNAL ELEVATION DESIGNED IN A COMBINATION OF GLASS AND ALUMINIUM PANELS.",
+			"largeImage": "img/portfolio/06-large.jpg",
+			"mainImage": "img/portfolio/13/1.png",
+			"images": [
+				"img/portfolio/13/1.png",
+				"img/portfolio/13/2.jpeg",
+				"img/portfolio/13/3.jpeg",
+				"img/portfolio/13/4.jpeg",
+				"img/portfolio/13/5.jpeg",
+				"img/portfolio/13/6.jpeg",
+				"img/portfolio/13/7.jpeg",
+				"img/portfolio/13/8.jpeg"
+			]
+		},
+		{
+			"id": 14,
+			"title": "Nagraju RESIDENCE",
+			"classification": "Interiors",
+			"client": "NAGARAJU",
+			"location": "AMALAPURAM",
+			"sitearea": "2315 SFT",
+			"builtuparea": "3145 SFT",
+			"projecttype": "RESIDENTIAL",
+			"description": " NAGARAJU RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN AMALAPURAM IN 260 SQUARE YARDS. THE SITE HAS A 33 FEET WIDE ROAD TOWARDS THE EAST. THE BUILDING HAS 3 LEVELS. IN THE STILT LEVEL IS SET FOR THE PARKING AND THE TOP THREE LEVELS HAS THE DWELLING UNITS FOR EACH FLOOR WITH A 3BHK.",
+			"largeImage": "img/portfolio/06-large.jpg",
+			"mainImage": "img/portfolio/14/1.jpeg",
+			"images": [
+				"img/portfolio/14/1.jpeg",
+				"img/portfolio/14/2.jpeg",
+				"img/portfolio/14/3.jpg",
+				"img/portfolio/14/4.jpg",
+				"img/portfolio/14/5.jpg",
+				"img/portfolio/14/6.jpg",
+				"img/portfolio/14/7.jpg",
+				"img/portfolio/14/8.jpg",
+				"img/portfolio/14/9.jpg"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Vasavi Mall",
+			"classification": "Interiors",
+			"client": "RAVINDAR",
+			"location": "AMEERPET",
+			"sitearea": "1645.00 SFT",
+			"builtuparea": "1610 SFT",
+			"projecttype": "COMMERCIAL",
+			"description": "Real estate interiors design concept involves creating a functional and aesthetically pleasing living space that reflects the unique style and preferences of the homeowners.Ultimately, the key to a successful real estate interiors design concept is creating a space that is both functional and aesthetically pleasing while reflecting the homeowner's unique style and personality",
+			"largeImage": "img/portfolio/06-large.jpg",
+			"mainImage": "img/portfolio/15/5.jpeg",
+			"images": [
+				"img/portfolio/15/1.jpeg",
+				"img/portfolio/15/2.jpeg",
+				"img/portfolio/15/3.jpeg",
+				"img/portfolio/15/4.jpeg",
+				"img/portfolio/15/5.jpeg"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Bee Media",
+			"classification": "Interiors",
+			"client": "Confidential",
+			"location": "HITECHCITY",
+			"sitearea": "1302 SFT",
+			"builtuparea": "1302 SFT",
+			"projecttype": "COMMERCIAL",
+			"description": "BEE MEDIA IS AN COMMERCIAL PROJECT WHICH IS LOCATED IN HYDERABAD IN 1302SQ.FT,WHICH CONSISTS OF DIRECTORS CABIN ,RECEPTION AND SPACE FOR WORKING EMPLOYEES, COMPLETE INTERIORS ARE DESIGNED IN MOVIE THEME CONCEPT.",
+			"largeImage": "img/portfolio/06-large.jpg",
+			"mainImage": "img/portfolio/16/1.jpg",
+			"images": [
+				"img/portfolio/16/1.jpg",
+				"img/portfolio/16/2.jpg",
+				"img/portfolio/16/3.jpg",
+				"img/portfolio/16/4.jpg",
+				"img/portfolio/16/5.jpg",
+				"img/portfolio/16/6.jpg"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Swati Apartment",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "SWATHI",
+			"location": "KOVVURU",
+			"sitearea": "3920 SFT",
+			"builtuparea": "3052 SFT",
+			"projecttype": "RESIDENTIAL",
+			"description": " THIS PROJECT CONSISTS OF THE RENOVATION OF A 3920 SFT IN A DILSUKHNAGAR LOCALITY. THE EXISTING HOUSE WAS CONVERTED INTO A NEW VOLUME WAS PLACED WITHIN THE BOUNDARY. THE WORK INCLUDES COMBINING TWO ROOMS TO CREATE A LARGE KITCHEN, RENOVATING ALL THE BATHROOMS AND BEDROOMS.",
+			"largeImage": "img/portfolio/06-large.jpg",
+			"mainImage": "img/portfolio/17/1.jpeg",
+			"images": [
+				"img/portfolio/17/1.jpeg",
+				"img/portfolio/17/2.jpeg"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Narsimha Apartment",
+			"classification": "Architecture",
+			"secondclass": "BOTH",
+			"client": "NARSIMHA",
+			"location": "PARIGI",
+			"sitearea": "1575 SFT",
+			"builtuparea": "2067 SFT",
+			"projecttype": "RESIDENTIAL",
+			"description": " THE NARSIMHA’S RESIDENCY IS CONSTRUCTED IN A 1575 SFT LOCATED IN THE PARIGI FACING TOWARDS THE WEST DIRECTION. IT IS A CONTEMPORARY STYLE RESIDENCY WITH A ONE STORY.LOWER LEVEL IS DESIGNED FOR PAKING AND RENT PURPOSE .UPPER LEVEL IS DESIGNED FOR OWNERS. BEDROOMS ARE DESIGNED WITH A CERTAIN PRIVACY AND ARE PLACES IN SOUTH WEST DIRECTION ",
+			"largeImage": "img/portfolio/06-large.jpg",
+			"mainImage": "img/portfolio/18/1.jpg",
+			"images": [
+				"img/portfolio/18/1.jpg",
+				"img/portfolio/18/2.jpg",
+				"img/portfolio/18/3.jpg",
+				"img/portfolio/18/4.jpg",
+				"img/portfolio/18/5.jpg",
+				"img/portfolio/18/6.jpg",
+				"img/portfolio/18/7.jpg",
+				"img/portfolio/18/8.jpg"
+			]
+		},
+		{
+			"id": 19,
+			"title": "NSL Mall",
+			"classification": "Interiors",
+			"client": "VENKAT",
+			"location": "KUKATPALLY",
+			"sitearea": "2908 SFT",
+			"builtuparea": "2908 SFT",
+			"projecttype": "COMMERCIAL",
+			"description": "NSL RESTAURANT IS A STAGGERED STRUCTURE WHICH IS BEEN STAGGERED FROM THE ONE SIDE OF THE BUILDING BY THIS METHOD WE GET PROPER LIGHTING AND VENTILATION INTO THE BUILDING. THE RESTAURANT IS PLANNED AND DESIGNED WITH A GOOD DINING EXPERIENCE TINGLES WITH ALL THE SENSES WITH ELEMENTS OF THE FUSION OF GEOMETRIC SHAPES AND COLOURS.THROUGH THREE PIVOT GLASS WINDOWS, THE DESIGN INTRODUCES THE URBAN PUBLIC SPACE INTO THE INTERIOR. SITUATED IN FIRST FLOOR NSL MALL KUKATPALLY HYDERABAD.",
+			"largeImage": "img/portfolio/06-large.jpg",
+			"mainImage": "img/portfolio/19/1.jpg",
+			"images": [
+				"img/portfolio/19/1.jpg",
+				"img/portfolio/19/2.jpg",
+				"img/portfolio/19/3.jpg",
+				"img/portfolio/19/4.jpg",
+				"img/portfolio/19/5.jpg"
+			]
+		}
+	],
+	"Services": [
+		{
+			"icon": "fa fa-wordpress",
+			"name": "Lorem ipsum dolor",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-cart-arrow-down",
+			"name": "Consectetur adipiscing",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-cloud-download",
+			"name": "Lorem ipsum dolor",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-language",
+			"name": "Consectetur adipiscing",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-plane",
+			"name": "Lorem ipsum dolor",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-pie-chart",
+			"name": "Consectetur adipiscing",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		}
+	],
+	"Testimonials": [
+		{
+			"img": "img/testimonials/01.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "John Doe"
+		},
+		{
+			"img": "img/testimonials/02.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "Johnathan Doe"
+		},
+		{
+			"img": "img/testimonials/03.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "John Doe"
+		},
+		{
+			"img": "img/testimonials/04.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "Johnathan Doe"
+		},
+		{
+			"img": "img/testimonials/05.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "John Doe"
+		},
+		{
+			"img": "img/testimonials/06.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "Johnathan Doe"
+		}
+	],
+	"Team": [
+		{
+			"img": "img/team/01.jpg",
+			"name": "John Doe",
+			"job": "Director"
+		},
+		{
+			"img": "img/team/02.jpg",
+			"name": "Mike Doe",
+			"job": "Senior Designer"
+		},
+		{
+			"img": "img/team/03.jpg",
+			"name": "Jane Doe",
+			"job": "Senior Designer"
+		},
+		{
+			"img": "img/team/04.jpg",
+			"name": "Karen Doe",
+			"job": "Project Manager"
+		}
+	],
+	"Contact": {
+		"address": "Road, opp. to Tv9 office, Srinagar Colony, Sri Nagar Colony, Venkateshwara Hills, Banjara Hills, Hyderabad, Telangana 500073 ",
+		"phone": "+91 90305 03649, +91 87908 07824",
+		"email": "prayogaarchitects@gmail.com",
+		"facebook": "fb.com",
+		"instagram": "https://www.instagram.com/prayogaarchitects/",
+		"youtube": "youtube.com"
+	},
+	"Features": {
+		"servicescaption": "Authentic experience guaranteed throughout your project. Because you deserve no less",
+		"servicesdescription": "Architecture services typically involve designing and planning buildings,including individual homes,office,commercial spaces,and public buildings.These services can include creating design concepts,preparing detailed construction drawings,obtaining necessary permits and approvals,managing construction projects,and ensuring that the completed building meets all relevant codes and regulations. These services may include: Site analysis and evaluation: We will evaluate the site where the building will be constructed, taking into account factors such as topography, climate, and zoning regulations. Conceptual design: We will develop initial design concepts, including floor plans, elevations, and site plans. Design development: We will work with the client to refine the design concepts and develop detailed drawings and specifications. Permitting: We will prepare the necessary documentation to obtain building permits from local authorities. Construction documentation: we will prepare detailed construction drawings and specifications that are used by contractors to build the project. Construction administration: We will provide ongoing support during construction, including site visits and review of contractor submittals. Post-construction services: We may provide additional services after the building is completed, such as evaluating the performance of the building systems and recommending maintenance or upgrades. Architectural services can be provided for a varziety of building types, including residential, commercial, institutional, and industrial. We may work independently or as part of a larger architectural firm."
+	}
+}
