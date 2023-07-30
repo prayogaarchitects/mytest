@@ -8,21 +8,21 @@ import PinterestGrid from 'rc-pinterest-grid';
 const breakPoints = [
   {
     minScreenWidth: 0,
-    maxScreenWidth: 400,
+    maxScreenWidth: 600,
     columns: 1,
-    columnWidth: 350,
+    columnWidth: 300,
   },
   {
-    minScreenWidth: 400,
+    minScreenWidth: 600,
     maxScreenWidth: 900,
     columns: 2,
-    columnWidth: 350,
+    columnWidth: 300,
   },
   {
     minScreenWidth: 900,
     maxScreenWidth: Infinity,
     columns: 3,
-    columnWidth: 450,
+    columnWidth: 400,
   },
 ]
 

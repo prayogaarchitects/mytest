@@ -46,15 +46,15 @@ export const Navigation = (props) => {
                 Contact Us
               </Link>
             </li>
-            {/* <li class="nav-item dropdown">
-              <Link class="nav-link dropdown-toggle" to="/ourservices" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {/* <li className="nav-item dropdown">
+              <Link className="nav-link dropdown-toggle" to="/ourservices" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Services
               </Link>
-              <div class="dropdown-menu" id="dropmenu" aria-labelledby="navbarDropdown">
-                <Link class="dropdown-item" to="/allprojects">All Projects</Link>
-                <Link class="dropdown-item" to="/interiors">Interiors</Link>
-                <Link class="dropdown-item" to="/archandint">Architecture + Interiors</Link>
-                <Link class="dropdown-item" to="/architecture">Architecture</Link>
+              <div className="dropdown-menu" id="dropmenu" aria-labelledby="navbarDropdown">
+                <Link className="dropdown-item" to="/allprojects">All Projects</Link>
+                <Link className="dropdown-item" to="/interiors">Interiors</Link>
+                <Link className="dropdown-item" to="/archandint">Architecture + Interiors</Link>
+                <Link className="dropdown-item" to="/architecture">Architecture</Link>
               </div>
             </li> */}
           </ul>

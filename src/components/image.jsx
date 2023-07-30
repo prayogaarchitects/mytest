@@ -6,7 +6,7 @@ export const Image = ({ title, id, largeImage, mainImage, sourcep }) => {
         {' '}
         {/* <a href={largeImage} title={title} data-lightbox-gallery='gallery1'> */}
         {
-          sourcep=="gallery"? <><Link to={'/gallery/' + id}>
+          sourcep==="gallery"? <><Link to={'/gallery/' + id}>
           
           <img
             src={mainImage}

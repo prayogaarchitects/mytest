@@ -939,12 +939,27 @@ label {
 
 }
 
-
 .contact-information {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-top: 50px;
+}
+
+@media screen and (min-width: 700px) {
+  .contact-information {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+    .divider{
+      display: block;
+    }
+  }
+  
 }
 
 .contact-item-1 {
@@ -965,6 +980,7 @@ label {
 }
 
 .divider {
+  display: none;
   height: 100px;
   border-left: 1px solid #D1D5DA;
   margin: 0 20px;
