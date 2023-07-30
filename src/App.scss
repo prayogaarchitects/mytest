@@ -228,7 +228,6 @@ hr {
 
 .btn-custom {
   font-family: "Playfair Display", sans-serif;
-  text-transform: lowercase;
   color: #fff;
   background-color: $paletteColor4;
   padding: 14px 34px;
@@ -338,6 +337,9 @@ header .intro-text {
 /* About Section */
 .about {
   background: $paletteColor1;
+  .container-fluid{
+    width:90vw;
+  }
 }
 
 .about i.fa {
@@ -995,4 +997,126 @@ label {
   font-size: 28px;
   color: RGB(212, 168, 107);
   padding: 40px;
+}
+
+.achievementshead{
+  color:#D4A86B;
+}
+
+.dot {
+  height:10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  margin:5px;
+  display: inline-block;
+}
+
+.dots{
+  display: flex;
+  margin-top:20px;
+}
+
+/* Accordion container */
+// .accordion {
+//   border: 1px solid #ccc;
+//   margin-bottom: 10px;
+// }
+
+// /* Accordion header */
+// .accordion-header {
+//   padding: 10px;
+//   cursor: pointer;
+// }
+
+// /* Accordion body */
+// .accordion-body {
+//   padding: 10px;
+// }
+
+/* Accordion container */
+.accordion {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  overflow: hidden;
+  transition: height 0.3s ease;
+  max-height: 300px; /* Set a reasonable max-height for smooth transition */
+}
+
+/* Expanded state */
+.accordion.expanded {
+  max-height: none;
+}
+
+/* Accordion header */
+.accordion-header {
+  padding: 10px;
+  cursor: pointer;
+  // background-color: #f1f1f1;
+  // border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Icon */
+.icon {
+  font-size: 1.2rem;
+  transition: transform 0.3s ease;
+  margin:15px;
+
+}
+
+/* Rotate icon when accordion is open */
+.icon.rotate {
+  transform: rotate(180deg);
+  margin:15px;
+}
+
+/* Accordion body */
+.accordion-body {
+  padding: 10px;
+}
+
+
+.careersdiv{
+  .row{
+    margin-bottom:30px ;
+  }
+
+}  
+.careeremail{
+  font-size:25px;
+  font-family: 'Cormorant Garamond';
+    color:#d4aa50;
+}
+
+h2.achievementshead{
+  text-align: left;
+}
+
+.joinusdiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column-gap: 20px;
+  column-gap: 20px;
+  border: 1px solid #ccc;
+  margin: 0px 40px 40px;
+  width: 90vw;
+}
+
+.achievdiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column-gap: 20px;
+  column-gap: 20px;
+  border: 1px solid #ccc;
+  width: 90vw;
+  padding: 50px;
+  margin-top: 50px;
+}
+.joinus{
+  font-size: 28px;
+    font-family: 'Cormorant Garamond';
 }

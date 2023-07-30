@@ -1,5 +1,5 @@
 import { useState, useRef } from "react";
-
+import { useNavigate } from "react-router-dom";
 import emailjs from "emailjs-com";
 import { Slide } from "react-reveal";
 
@@ -7,6 +7,7 @@ export const Contact = (props) => {
   const nameRef = useRef();
   const emailRef = useRef();
   const messageRef = useRef();
+  const navigate = useNavigate();
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -15,6 +16,10 @@ export const Contact = (props) => {
     messageRef.current.value = "";
     alert("Form Submitted succesfully");
   };
+
+  const handleJoinUs = () =>{
+    navigate('/careers');
+  }
   return (
     <div>
       <div id="contact">
@@ -28,18 +33,25 @@ export const Contact = (props) => {
             <div className="row d-flex">
               <div className="col-sm-12 col-md-12 col-lg-6 servicesp">
                 <h3 id="contactcap">
-                Thank you for reaching out to us! We look forward to talking to you!
-
+                  Thank you for reaching out to us! We look forward to talking
+                  to you!
                 </h3>
               </div>
               <div className="col-sm-12 col-md-12 col-lg-6 servicesp">
-                <span>{props.data? props.data.p1 : ""}</span>
-                <span>{props.data? props.data.p2 : ""}</span>
-                <span>{props.data? props.data.p3 : ""}</span>
-                <span>{props.data? props.data.p4 : ""}</span>
+                <span>{props.data ? props.data.p1 : ""}</span>
+                <span>{props.data ? props.data.p2 : ""}</span>
+                <span>{props.data ? props.data.p3 : ""}</span>
+                <span>{props.data ? props.data.p4 : ""}</span>
               </div>
             </div>
           </div>
+        </div>
+
+        <div className="col-md-12 col-sm-12 joinusdiv">
+            <p className="joinus">Want to Join Us?</p>
+            <button onClick={handleJoinUs} type="submit" className="btn btn-custom btn-lg careersbtn">
+              Careers
+            </button>
         </div>
         <div className="container contactcontainer">
           <div className="col-md-6">
@@ -118,7 +130,6 @@ export const Contact = (props) => {
               </div>
             </div>
           </div>
-
           <div className="col-md-12">
             <div class="contact-information">
               <div class="contact-item-1">

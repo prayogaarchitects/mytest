@@ -10,6 +10,8 @@ import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.scss";
 import { Route, Routes } from "react-router-dom";
+import { Achievements } from "./components/achievements";
+import { Careers } from "./components/careers";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -33,6 +35,8 @@ const App = () => {
         <Route path="gallery" element={<Gallery data={landingPageData.Gallery}/>}></Route>
         <Route path="contact" element={<Contact data={landingPageData.Contact}/>}></Route>
         <Route path="gallery/:id" element={<ImagesView data={landingPageData.Gallery}/>} />
+        <Route path="achievements" element={<Achievements data={landingPageData.Achievements}/>}></Route>
+        <Route path="careers" element={<Careers data={landingPageData.Careers}/>}></Route>
       </Routes>
     {/*         
       <Header data={landingPageData.Header} />

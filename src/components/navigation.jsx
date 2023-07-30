@@ -6,7 +6,7 @@ export const Navigation = (props) => {
       <div className='container-fluid'>
         <div className='navbar-header'>
         <Link to='/'><img src={process.env.PUBLIC_URL + '/img/PAlogo.png'}  className="iconv" alt="Logo" /></Link>
-        <Link to='/'><img src={process.env.PUBLIC_URL + '/img/PRAYOGA.PNG'}  className="headv" alt="Logo" /></Link>
+        <Link to='/'><img src={process.env.PUBLIC_URL + '/img/Prayoga.png'}  className="headv" alt="Logo" /></Link>
           <button
             type='button'
             className='navbar-toggle collapsed'

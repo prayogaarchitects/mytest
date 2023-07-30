@@ -167,7 +167,7 @@
 			"id": 7,
 			"title": "James Street",
 			"classification": "Architecture",
-			"secondclass":"None",
+			"secondclass":"BOTH",
 			"client": "GHMC",
 			"location": "SECUNDRABAD",
 			"sitearea": "8203 SFT",
@@ -288,10 +288,9 @@
 			"builtuparea": "7600 SFT",
 			"projecttype": "RESIDENTIAL",
 			"description": " LAKSHMAN RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN KOMPALLY HYDERABAD IN 210 SQUARE YARDS. THE SITE HAS A 33 FEET WIDE ROAD TOWARDS THE EAST. THE BUILDING HAS 4 LEVELS. IN THE STILT LEVEL IS SET FOR THE PARKING AND THE TOP THREE LEVELS HAS THE DWELLING UNITS FOR EACH FLOOR WITH A 1BHK & 3BHK.",
-			"largeImage": "img/portfolio/12/1.jpeg",
-			"mainImage": "img/portfolio/12/1.jpg",
+			"largeImage": "img/portfolio/12/2.jpeg",
+			"mainImage": "img/portfolio/12/2.jpeg",
 			"images": [
-				"img/portfolio/12/1.jpg",
 				"img/portfolio/12/2.jpeg",
 				"img/portfolio/12/4.jpeg",
 				"img/portfolio/12/5.jpeg",
@@ -338,10 +337,8 @@
 			"projecttype": "RESIDENTIAL",
 			"description": " NAGARAJU RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN AMALAPURAM IN 260 SQUARE YARDS. THE SITE HAS A 33 FEET WIDE ROAD TOWARDS THE EAST. THE BUILDING HAS 3 LEVELS. IN THE STILT LEVEL IS SET FOR THE PARKING AND THE TOP THREE LEVELS HAS THE DWELLING UNITS FOR EACH FLOOR WITH A 3BHK.",
 			"largeImage": "img/portfolio/06-large.jpg",
-			"mainImage": "img/portfolio/14/1.jpeg",
+			"mainImage": "img/portfolio/14/4.jpg",
 			"images": [
-				"img/portfolio/14/1.jpeg",
-				"img/portfolio/14/2.jpeg",
 				"img/portfolio/14/3.jpg",
 				"img/portfolio/14/4.jpg",
 				"img/portfolio/14/5.jpg",
@@ -563,5 +560,23 @@
 
 		"servicesdescription3":"These services may include: Site analysis and evaluation: We will evaluate the site where the building will be constructed, taking into account factors such as topography, climate, and zoning regulations. Conceptual design: We will develop initial design concepts, including floor plans, elevations, and site plans. ",
 		"servicesdescription4":"Design development: We will work with the client to refine the design concepts and develop detailed drawings and specifications. Permitting: We will prepare the necessary documentation to obtain building permits from local authorities. Construction documentation: we will prepare detailed construction drawings and specifications that are used by contractors to build the project. Construction administration: We will provide ongoing support during construction, including site visits and review of contractor submittals. Post-construction services: We may provide additional services after the building is completed, such as evaluating the performance of the building systems and recommending maintenance or upgrades. Architectural services can be provided for a varziety of building types, including residential, commercial, institutional, and industrial. We may work independently or as part of a larger architectural firm."
+	},
+	"Achievements":{
+			"title1":"U.O.W = Special Jury Award (NASA Trophy 2015)",
+			"title2":"IIA = Award Winner 2nd Runner up (Gate Way Of Amaravathi)",
+			"title3":"IIID = Award Winner in Residential Category"
+		},
+	"Careers":{
+		"p1":"Hi! We are thrilled that you would consider a career at Prayoga Architects! We love having new exciting talent in our team and accomplishing tasks that other's don't.",
+		"p2":"Our current vacancies are listed below, and in the event that we don't have any openings, or if you are looking for a role you don't find below, please send us an email with the relevant details in the subject line.",
+		"p3":"EMAIL US AT",
+		"email":"prayogaarchitects@gmail.com",
+		"position1":"Junior Architect",
+		"positiondes1":"ELIGIBILITY: Minimum two years of work experience as an architect. Proficient in AutoCAD and Sketchup with a flair for illustrations and 3D Visualization. DEADLINE: We review applications on a rolling basis and encourage you to apply as soon as you are ready.",
+		"position2":"Architectural Intern",
+		"positiondes2":"ELIGIBILITY: Six-Month Cycle: Students pursuing a Bachelor’s or Master’s Degree in Architecture, and in their penultimate / final year of studies (or those who are within 12 months of graduating). DEADLINE: We review applications on a rolling basis and encourage you to apply as soon as you are ready.",
+		"position3":"3D Visualizer",
+		"positiondes3":"ELIGIBILITY: Experience in 3DS Max, Sketch-Up, Blender, Lumion or V-Ray. DEADLINE: We review applications on a rolling basis and encourage you to apply as soon as you are ready."
 	}
+	
 }
